@@ -37,9 +37,6 @@ An interactive educational platform built from scratch to understand how neural 
 - scikit-learn
 - ipywidgets (interactive UI)
 
-## 📊 Example Output
-
-(Add your best screenshot here)
 
 ## 🎯 Purpose
 
