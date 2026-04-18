@@ -1,5 +1,7 @@
 # Neural Network Learning Platform
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Overfitters-lives-matters/neural-network-learning-platform/blob/main/NeuralNetwork_Learning_Platform.ipynb)
+
 An interactive educational platform built from scratch to understand how neural networks learn through experimentation and visualization.
 
 ## 🚀 Features
